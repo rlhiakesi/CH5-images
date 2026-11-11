@@ -1,0 +1,5 @@
+CH5-P046-S2-D1 — CAPTAIN (speech): You were not chosen by birth.
+CH5-P046-S3-D1 — CAPTAIN (speech): You were chosen by your ability.
+CH5-P046-S4-D1 — CAPTAIN (speech): Your affinity gives you a role.
+CH5-P046-S4-D2 — CAPTAIN (speech): It does not excuse you from learning the others.
+CH5-P046-S5-N1 — NARRATION (rectangular box): Many had never held a weapon.
